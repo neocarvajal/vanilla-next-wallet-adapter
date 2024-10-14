@@ -1,0 +1,1 @@
+# vanilla-next-wallet-adapter
