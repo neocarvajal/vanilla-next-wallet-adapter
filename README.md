@@ -1,13 +1,13 @@
 # vanilla-next-wallet-adapter
 
-![Alt Text](vanilla-next-wallet-adapter-template.gif)
-
 ## :ledger: Index
 
 - [About](#beginner-about)
   - [Installation](#electric_plug-installation)
   - [Commands](#package-commands)
--
+
+![Alt Text](vanilla-next-wallet-adapter-template.gif)
+
 
 ##  :beginner: About
 Simple Next.js + Wallet-Adapter (@Solana)
@@ -16,7 +16,7 @@ Simple Next.js + Wallet-Adapter (@Solana)
 - 1 Clone this repo
 
 ```
-$ git clone https://github.com/neocarvajal/vanilla-next-wallet-adapter.git
+$ git clone https://github.com/neocarvajal/vanilla-next-wallet-adapter/
 ```
 - 2 go to the downloaded project
 
