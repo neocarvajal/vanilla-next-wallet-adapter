@@ -3,7 +3,6 @@
 ## :ledger: Index
 
 - [About](#beginner-about)
-  - [Demo](#rocket-deployment)
   - [Installation](#electric_plug-installation)
   - [Commands](#package-commands)
 - [File Structure](#file_folder-file-structure)
@@ -12,10 +11,6 @@
 
 ##  :beginner: About
 Simple Next.js + Wallet-Adapter (@Solana)
-
-### :rocket: Demo
-
-[Vanila Next Wallet Adapter in Vercel](https://vanilla-next-wallet-adapter.vercel.app/)
 
 ###  :electric_plug: Installation
 - 1 Clone this repo
