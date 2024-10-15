@@ -16,12 +16,12 @@ Simple Next.js + Wallet-Adapter (@Solana)
 - 1 Clone this repo
 
 ```
-$ git clone https://github.com/neocarvajal/vanilla-next-wallet-adapter/
+$ git clone https://github.com/neocarvajal/vanilla-next-wallet-adapter.git
 ```
 - 2 go to the downloaded project
 
 ```
-$ cd vanilla-next-wallet-adapter.git
+$ cd vanilla-next-wallet-adapter/
 ```
 
 - 3 Build and run project
