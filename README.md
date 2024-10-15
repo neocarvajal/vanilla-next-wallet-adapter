@@ -37,7 +37,7 @@ $ cd vanilla-next-wallet-adapter/
 or
 - ```npm run start ```
 
-###  :file_folder: File Structure
+##  :file_folder: File Structure
 - The structure of the project is as follows:
 
 ```
