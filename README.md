@@ -5,9 +5,9 @@
 - [About](#beginner-about)
   - [Installation](#electric_plug-installation)
   - [Commands](#package-commands)
+- [File Structure](#file_folder-file-structure)
 
 ![Alt Text](vanilla-next-wallet-adapter-template.gif)
-
 
 ##  :beginner: About
 Simple Next.js + Wallet-Adapter (@Solana)
@@ -36,6 +36,9 @@ $ cd vanilla-next-wallet-adapter/
 - ```npm run dev ```
 or
 - ```npm run start ```
+
+###  :file_folder: File Structure
+- The structure of the project is as follows:
 
 ```
 .├── src
